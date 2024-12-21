@@ -1,7 +1,10 @@
 > ### Criando projeto
 <img src="./principal.png" alt="" />
-<br><br>
-* <b>0</b>
+<br/><br/>
+
+<hr/>
+
+* <b>0</b> Somente ser for a primeira que estiver usando o <b>NestJS</b>
 ```
 npm i -g @nestjs/cli
 ```
