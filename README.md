@@ -1,5 +1,6 @@
-### Criando projeto
-
+> ### Criando projeto
+<img src="./principal.png" alt="" />
+<br><br>
 * <b>0</b>
 ```
 npm i -g @nestjs/cli
@@ -13,7 +14,7 @@ npx nest new api
 ```
 cd api
 ```
-### Inciando prisma ORM Gerenciador de Banco
+> ### Inciando prisma ORM Gerenciador de Banco
 * <b>2</b> Instalando o prisma
 ```
 npm install prisma --save-dev
@@ -58,4 +59,9 @@ npx prisma migrate dev --name init
 * <b>8</b>  Abrindo o nosso prisma Studio Admin
 ```
 npx prisma studio
+```
+> ### Caso baixe do Github
+* <b>9</b>  no terminal na pasta do projeto
+```
+npm install
 ```
