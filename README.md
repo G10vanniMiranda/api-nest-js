@@ -1,5 +1,5 @@
 > ### Criando projeto
-<img src="./principal.png" alt="" />
+<img src="./image/principal.png" alt="" />
 <br/><br/>
 
 <hr/>
